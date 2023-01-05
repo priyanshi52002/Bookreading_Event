@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.23" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Company.Project.Core">
+      <HintPath>..\..\Lib\Foundation\Company.Project.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Company.Project.Core.Data">
+      <HintPath>..\..\Lib\Foundation\Company.Project.Core.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="copy /y &quot;$(TargetDir)$(TargetFileName)&quot; &quot;$(ProjectDir)\..\..\Lib\Foundation\&quot;" />
+  </Target>
+
+</Project>

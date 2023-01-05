@@ -1,0 +1,51 @@
+D:\Nagarro Doc\Nagarro Assignment\MVC\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.deps.json
+D:\Nagarro Doc\Nagarro Assignment\MVC\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.dll
+D:\Nagarro Doc\Nagarro Assignment\MVC\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.pdb
+D:\Nagarro Doc\Nagarro Assignment\MVC\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Core.dll
+D:\Nagarro Doc\Nagarro Assignment\MVC\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.csproj.AssemblyReference.cache
+D:\Nagarro Doc\Nagarro Assignment\MVC\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nagarro Doc\Nagarro Assignment\MVC\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.AssemblyInfoInputs.cache
+D:\Nagarro Doc\Nagarro Assignment\MVC\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.AssemblyInfo.cs
+D:\Nagarro Doc\Nagarro Assignment\MVC\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.csproj.CoreCompileInputs.cache
+D:\Nagarro Doc\Nagarro Assignment\MVC\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.csproj.CopyComplete
+D:\Nagarro Doc\Nagarro Assignment\MVC\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.dll
+D:\Nagarro Doc\Nagarro Assignment\MVC\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.pdb
+D:\MVC Test\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.deps.json
+D:\MVC Test\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.dll
+D:\MVC Test\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.pdb
+D:\MVC Test\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Core.dll
+D:\MVC Test\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.csproj.AssemblyReference.cache
+D:\MVC Test\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC Test\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.AssemblyInfoInputs.cache
+D:\MVC Test\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.AssemblyInfo.cs
+D:\MVC Test\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.csproj.CoreCompileInputs.cache
+D:\MVC Test\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.csproj.CopyComplete
+D:\MVC Test\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.dll
+D:\MVC Test\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.pdb
+D:\CloneFile\santosh-kumar-singh\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.deps.json
+D:\CloneFile\santosh-kumar-singh\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.dll
+D:\CloneFile\santosh-kumar-singh\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.pdb
+D:\CloneFile\santosh-kumar-singh\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Core.dll
+D:\CloneFile\santosh-kumar-singh\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\CloneFile\santosh-kumar-singh\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.AssemblyInfoInputs.cache
+D:\CloneFile\santosh-kumar-singh\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.AssemblyInfo.cs
+D:\CloneFile\santosh-kumar-singh\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.csproj.CoreCompileInputs.cache
+D:\CloneFile\santosh-kumar-singh\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.csproj.CopyComplete
+D:\CloneFile\santosh-kumar-singh\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.dll
+D:\CloneFile\santosh-kumar-singh\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.pdb
+D:\CloneFile\santosh-kumar-singh\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.csproj.AssemblyReference.cache
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.deps.json
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.dll
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.pdb
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Core.dll
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.csproj.AssemblyReference.cache
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.AssemblyInfoInputs.cache
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.AssemblyInfo.cs
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.csproj.CoreCompileInputs.cache
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.csproj.CopyComplete
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.dll
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.pdb
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.runtimeconfig.json
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\bin\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.runtimeconfig.dev.json
+C:\Users\shashankdhanai\Downloads\Company.Project\Company.Project\PlugIn\Company.Project.Loggig.NLog\obj\Debug\netcoreapp3.1\Company.Project.Loggig.NLog.genruntimeconfig.cache
